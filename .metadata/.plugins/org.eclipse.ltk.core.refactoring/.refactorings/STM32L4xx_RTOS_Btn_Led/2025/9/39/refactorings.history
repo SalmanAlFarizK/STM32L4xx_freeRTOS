@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32L4xx_RTOS_Btn_Led/STM32L4xx_RTOS.ioc&apos; to &apos;STM32L4xx_RTOS_Btn_Led.ioc&apos;" description="Rename resource &apos;STM32L4xx_RTOS.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="STM32L4xx_RTOS.ioc" name="STM32L4xx_RTOS_Btn_Led.ioc" stamp="1758689044325" updateReferences="true"/>
+</session>

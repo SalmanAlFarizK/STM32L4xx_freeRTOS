@@ -1,0 +1,10 @@
+10:11:28 **** Incremental Build of configuration Debug for project STM32L4xx_RTOS ****
+make -j12 all 
+arm-none-eabi-size  STM32L4xx_RTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23468	     24	  18504	  41996	   a40c	STM32L4xx_RTOS.elf
+Finished building: default.size.stdout
+ 
+
+10:11:30 Build Finished. 0 errors, 0 warnings. (took 1s.420ms)
+

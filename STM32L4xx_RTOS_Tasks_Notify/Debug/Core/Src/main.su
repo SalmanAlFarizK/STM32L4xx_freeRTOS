@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:5:main	16	static
+../Core/Src/main.c:131:6:SystemClock_Config	96	static
+../Core/Src/main.c:181:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:216:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:250:6:HAL_GPIO_EXTI_Callback	48	static
+../Core/Src/main.c:261:6:pBtnTaskHandler	24	static
+../Core/Src/main.c:279:6:pLedTaskHandler	24	static
+../Core/Src/main.c:296:6:RtosDelay	24	static
+../Core/Src/main.c:320:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,10 @@
+12:48:41 **** Incremental Build of configuration Debug for project STM32L4xx_RTOS_Tasks_Notify ****
+make -j12 all 
+arm-none-eabi-size  STM32L4xx_RTOS_Tasks_Notify.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23596	     24	  18504	  42124	   a48c	STM32L4xx_RTOS_Tasks_Notify.elf
+Finished building: default.size.stdout
+ 
+
+12:48:42 Build Finished. 0 errors, 0 warnings. (took 423ms)
+
